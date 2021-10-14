@@ -19,7 +19,7 @@ nav{
     align-items: center;
 }
 nav img {
-    width: 200px;
+    width: 100%;
 }
 .nav-links {
     flex: 1;
@@ -28,7 +28,7 @@ nav img {
 .nav-links ul li {
     list-style: none;
     display: inline-block;
-    padding: 8px 12px;
+    padding: 20px 5px;
     position: relative;
 }
 .nav-links ul li a {
@@ -83,7 +83,8 @@ nav img {
     border: 1px solid #f6a526;
     background: #f6a526;
     transition: 1s;
-}/*Large mobile devices*/
+}
+/*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
         font-size: 30px;
