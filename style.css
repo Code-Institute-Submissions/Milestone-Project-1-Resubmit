@@ -100,3 +100,24 @@ nav img {
     }
 }
 /*Medium mobile devices*/
+@media (max-width: 500px) {
+    .text-box h1 {
+        font-size: 20px;
+    }
+    .text-box p {
+        font-size: 15px;
+    }
+    .nav-links ul li a{
+        display: inline-block;
+        font-size: 70%;
+        text-decoration: underline #f6a526 2px;
+    }
+    nav img {
+        width: 60%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-220%);
+        text-align: center;
+    }
+}
