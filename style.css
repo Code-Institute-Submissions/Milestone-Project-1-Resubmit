@@ -84,6 +84,21 @@ nav img {
     background: #f6a526;
     transition: 1s;
 }
+/*Wellness section*/
+.wellness {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.wellness h1 {
+    font-size: 50px;
+}
+.wellness p {
+    font-size: 20px;
+    padding-top: 50px;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
@@ -121,9 +136,12 @@ nav img {
         transform: translate(-50%,-220%);
         text-align: center;
     }
+    .wellness p {
+        font-size: 15px;
+    }
 }
 /*Small mobile devices*/
-@media (max-width: 300px) {
+@media (max-width: 360px) {
     .text-box h1 {
         font-size: 20px;
     }
