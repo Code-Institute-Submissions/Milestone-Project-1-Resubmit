@@ -159,6 +159,9 @@ footer h4 {
     margin-top: 20px;
     font-weight: 600;
 }
+footer p {
+    font-weight: 300;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
