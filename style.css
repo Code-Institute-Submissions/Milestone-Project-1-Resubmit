@@ -139,6 +139,7 @@ nav img {
 }
 .well-vid {
     padding-top: 50px;
+    border-width: 0px;
     width: 60%;
     height: 500px;
 }
