@@ -255,6 +255,13 @@ footer p {
         height: 50%;
         width: 80%;
     }
+    footer p {
+        font-size: 15px;
+    }
+    .bottom-links ul li a{
+        font-size: 12px;
+        font-weight: 300;
+    }
 }
 /*Small mobile devices*/
 @media (max-width: 360px) {
