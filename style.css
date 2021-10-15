@@ -162,6 +162,13 @@ footer h4 {
 footer p {
     font-weight: 300;
 }
+.icons .fa {
+    text-decoration: none;
+    color: black;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
