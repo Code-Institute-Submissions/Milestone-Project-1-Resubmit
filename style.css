@@ -241,6 +241,15 @@ footer p {
     background-size: cover;
     position: relative;
 }
+/*MINDFULNESS SECTION*/
+.header-mind {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(media/images/Mindfulness.jpg);
+    background-position: middle;
+    background-size: cover;
+    position: relative;
+}
 /*Large mobile devices*/
 @media (max-width: 900px) {
     .text-box h1 {
