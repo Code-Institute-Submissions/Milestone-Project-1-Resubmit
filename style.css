@@ -233,7 +233,7 @@ footer p {
     padding-top: 25px;
 }
 /*Large mobile devices*/
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .text-box h1 {
         font-size: 30px;
     }
