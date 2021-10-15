@@ -202,6 +202,15 @@ footer p {
 .bottom-links ul li:hover::after {
     width: 100%;
 }
+/*MEDITATION PAGE*/
+.header-med {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(media/images/ManMed.jpg);
+    background-position: top right;
+    background-size: cover;
+    position: relative;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
