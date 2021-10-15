@@ -130,6 +130,19 @@ nav img {
     font-weight: 200;
     font-size: 18px;
 }
+.what-wellness h1 {
+    text-align: center;
+    font-size: 50px;
+}
+.well-vid {
+    padding-top: 50px;
+    width: 60%;
+    height: 500px;
+}
+.what-wellness {
+    text-align: center;
+}
+
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
