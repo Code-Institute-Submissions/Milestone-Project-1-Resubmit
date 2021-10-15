@@ -250,6 +250,10 @@ footer p {
     .box-row{
         flex-direction: column;
     }
+    .well-vid {
+        height: 50%;
+        width: 80%;
+    }
 }
 /*Medium mobile devices*/
 @media (max-width: 500px) {
