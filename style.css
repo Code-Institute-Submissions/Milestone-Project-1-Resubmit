@@ -147,6 +147,13 @@ nav img {
     text-align: center;
     padding-bottom: 100px;
 }
+footer {
+    background: #f6a526;
+    border-top: black solid 1px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
