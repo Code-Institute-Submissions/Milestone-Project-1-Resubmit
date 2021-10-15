@@ -236,7 +236,7 @@ footer p {
 .header-yoga {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(media/images/Yoga.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(media/images/MatUnroll.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
