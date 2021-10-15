@@ -287,4 +287,11 @@ footer p {
     .box-row{
         flex-direction: column;
     }
+    footer p {
+        font-size: 11px;
+    }
+    .bottom-links ul li a{
+        font-size: 8px;
+        font-weight: 300;
+    }
 }
