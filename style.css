@@ -195,6 +195,11 @@ nav img {
     .box-row p {
         font-size: 18px;
     }
+    .well-vid {
+        height: 50%;
+        width: 80%;
+    }
+}
 /*Small mobile devices*/
 @media (max-width: 360px) {
     .text-box h1 {
