@@ -226,6 +226,12 @@ footer p {
     font-size: 20px;
     font-weight: 300
 }
+.info {
+    padding-top: 50px;
+}
+.info p {
+    padding-top: 25px;
+}
 /*Large mobile devices*/
 @media (max-width: 800px) {
     .text-box h1 {
